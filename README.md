@@ -1,6 +1,6 @@
-# Oi, eu sou a Bia! 👋
+# Olá, eu sou a Bia! 👋
 
-### Cientista de Dados | 18 anos transformando dados em decisões de negócio
+### Cientista de Dados | 18 anos em análise de dados para decisões de negócio
 
 Sabe aquela pessoa que sempre mexeu com dados, mesmo antes de virar "hype"? Essa sou eu. Passei quase duas décadas mergulhada em números — seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que esses dados estão tentando me dizer?"**
 
@@ -10,11 +10,11 @@ Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Pytho
 
 ## 🎯 O que eu faço de melhor
 
-- **Traduzir business em modelos**: entendo o problema antes de abrir o Jupyter
-- **Machine Learning aplicado**: regressões, Random Forest, XGBoost, redes neurais — sempre com foco em resultado
-- **Otimização & previsão**: do planejamento de produção à análise de séries temporais
-- **Feature Engineering criativo**: sei que o modelo é tão bom quanto os dados que você coloca nele
-- **Comunicação clara**: dashboards que executivos entendem e insights que times aplicam
+- **Traduzo business em modelos**: entendo o problema antes de abrir o Jupyter
+- **Aplico Machine Learning**: regressões, Random Forest, XGBoost, redes neurais — sempre com foco em resultado
+- **Faço otimização e previsões**: do planejamento de produção à análise de séries temporais
+- **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele
+- **Comunico de forma clara**: demonstro aos stakeholders aplicações dos modelos
 
 ---
 
