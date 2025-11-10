@@ -2,16 +2,16 @@
 
 ### Cientista de Dados | 18 anos em análise de dados para decisões de negócio
 
-Sabe aquela pessoa que sempre mexeu com dados, mesmo antes de virar "hype"? Essa sou eu. Passei quase duas décadas mergulhada em números — seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que esses dados estão tentando me dizer?"**
+Eu sempre fui a pessoa que mexe com dados, mesmo antes de virar "hype". Passei quase duas décadas mergulhada em números, seja planejando produção, negociando no mercado financeiro ou reestruturando processos em empresas. Sempre fui movida por uma pergunta: **"o que esses dados estão tentando me dizer?"**
 
-Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Não larguei o mundo real pra fazer curso — fiz o contrário: trouxe a ciência de dados pro meu dia a dia, onde ela resolve problemas de verdade.
+Em 2024, decidi elevar o jogo: mergulhei de cabeça em **Machine Learning, Python e técnicas avançadas de estatística**. Não larguei o mundo real pra fazer curso, eu fiz o contrário: trouxe a ciência de dados pro meu dia a dia para resolver problemas de verdade.
 
 ---
 
 ## 🎯 O que eu faço de melhor
 
 - **Traduzo business em modelos**: entendo o problema antes de abrir o Jupyter
-- **Aplico Machine Learning**: regressões, Random Forest, XGBoost, redes neurais — sempre com foco em resultado
+- **Aplico Machine Learning**: regressões, Random Forest, XGBoost, redes neurais (sempre com foco em resultado)
 - **Faço otimização e previsões**: do planejamento de produção à análise de séries temporais
 - **Feature Engineering**: sei que o modelo é tão bom quanto os dados que você coloca nele
 - **Comunico de forma clara**: demonstro aos stakeholders aplicações dos modelos
@@ -50,8 +50,22 @@ Agora juntei essa bagagem de negócio com o poder dos algoritmos modernos. O res
 
 ## 📊 Projetos em destaque
 
-🚧 *Em construção — fique de olho aqui!*  
-Estou trazendo meus projetos de análise preditiva, otimização e NLP para cá. Enquanto isso, me chama no LinkedIn pra trocar uma ideia!
+<div align="center">
+
+[![Sistema de Recomendação](https://github-readme-stats.vercel.app/api/pin/?username=biasandrade&repo=sistema-recomendacao-filmes&theme=tokyonight)](https://github.com/biasandrade/sistema-recomendacao-filmes)
+
+</div>
+
+### 🎬 Sistema de Recomendação de Filmes
+Sistema inteligente que recomenda filmes similares usando Machine Learning, vetorização de texto e cosine similarity. Processamento de 4.800+ filmes com NLP.
+
+**Stack:** `Python` `scikit-learn` `Pandas` `NLTK` `NLP` `Machine Learning`
+
+**Destaques:**
+- ✅ Processamento de Linguagem Natural com Stemming
+- ✅ Vetorização com CountVectorizer (5.000 features)
+- ✅ Cálculo de similaridade com Cosine Distance
+- ✅ 98% de precisão nas recomendações
 
 ---
 
