@@ -65,7 +65,6 @@ Sistema inteligente que recomenda filmes similares usando Machine Learning, veto
 - ✅ Processamento de Linguagem Natural com Stemming
 - ✅ Vetorização com CountVectorizer (5.000 features)
 - ✅ Cálculo de similaridade com Cosine Distance
-- ✅ 98% de precisão nas recomendações
 
 ---
 
